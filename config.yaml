@@ -1,0 +1,6 @@
+# Settings for healthcheck.py
+owner: jl123
+timeout_seconds: 3
+targets:
+  - name: task-tracker
+    url: http://localhost:8080/health
