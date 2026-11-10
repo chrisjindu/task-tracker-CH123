@@ -1,5 +1,5 @@
 # Settings for healthcheck.py
-owner: jl123
+owner: CH123
 timeout_seconds: 3
 targets:
   - name: task-tracker
